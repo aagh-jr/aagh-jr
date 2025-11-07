@@ -5,5 +5,5 @@ interested in:
 - technology as relationship.  
 - design as care.
 
-currently based in san jose — studying cognitive science with a specialization in human-computer interacton.
+currently based in san jose, studying cognitive science with a specialization in human-computer interacton at uc san diego.
 I like to design and create things that feel warm, helpful, and get our minds thinking and going.
