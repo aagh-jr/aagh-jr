@@ -1,4 +1,4 @@
-## abel angel gonzalez hernandez — designer / researcher / builder
+## abel angel gonzalez hernandez — designer, researcher, builder
 
 interested in:
 - interaction as storytelling.  
