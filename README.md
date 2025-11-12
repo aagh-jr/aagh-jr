@@ -1,12 +1,14 @@
 ## abel angel gonzalez hernandez — designer, researcher, builder
 
+currently based in san jose, studying cognitive science with a specialization in human-computer interacton at uc san diego.
+I like to design and create things that feel warm, helpful, and get our minds thinking and going.
+
 interested in:
 - interaction as storytelling.  
 - technology as relationship.  
 - design as care.
 
-currently based in san jose, studying cognitive science with a specialization in human-computer interacton at uc san diego.
-I like to design and create things that feel warm, helpful, and get our minds thinking and going.
+tools:
 
 <p align="left">
   <!-- Figma -->
