@@ -1,6 +1,6 @@
-## abel angel gonzalez hernandez — designer, researcher, builder
+## Abel Angel Gonzalez Hernandez
 
-currently based in san jose, studying cognitive science with a specialization in human-computer interacton at uc san diego.
+currently based in San Jose, new grad in cognitive science with a specialization in human-computer interacton from UC San Diego.
 I like to design and create things that feel warm, helpful, and get our minds thinking and going.
 
 interested in:
